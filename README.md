@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Geoffrey Bian and I am a second year computer engineering student. Welcome to my GitHub page!
+
 <!--
 **GeoffreyBian/GeoffreyBian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
