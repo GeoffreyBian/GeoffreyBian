@@ -8,7 +8,7 @@ I’m passionate about **software and hardware development**, with experience in
 - **Systems & Hardware:** CAN, TCP/IP, AWS IoT, PLCs, Altium, SystemVerilog, ARM  
 - **Tools & Technologies:** MATLAB (Simulink), Linux, Git, Docker, Bazel, SCons, VS Code  
 
-I’ve interned at **Tesla** and **Rivian**, working on projects ranging from **SCADA systems and Battery Energy Storage Systems** to **Vehicle Body Control Features** such as **Vehcile Access** and **Exterior Lighting**. At UBC, I’ve also contributed to **UBC Baja and Formula Electric teams**, developing embedded systems, PCBs, and CAN bus communication protocols.
+I’ve interned at **Tesla** and **Rivian**, working on projects ranging from **SCADA systems and Battery Energy Storage Systems** to **Vehicle Body Control Features** such as **Vehicle Access** and **Exterior Lighting**. At UBC, I’ve also contributed to **UBC Baja and Formula Electric teams**, developing embedded systems, PCBs, and CAN bus communication protocols.
 
 Beyond engineering, I enjoy staying active and challenging myself with:
 
