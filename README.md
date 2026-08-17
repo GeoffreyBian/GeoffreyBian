@@ -1,27 +1,24 @@
-### Hi there 👋
+Hello there!
 
-My name is Geoffrey Bian, and I am a **Computer Engineering student at the University of British Columbia (Class of 2027)**. Welcome!
+I'm Geoffrey Bian, a Computer Engineering student at the University of British Columbia, graduating in 2027.
 
-I'm currently a **Software Engineer Intern on the Crash Safety team at Tesla**, building Hardware-in-the-Loop test infrastructure for the Restraint Control Module. Previously I've interned at **Tesla Energy** (SCADA/BESS controls) and **Rivian & Volkswagen Group Technologies** (vehicle body controls), working on everything from **Battery Energy Storage System control algorithms** to **Vehicle Access and Exterior Lighting** firmware.
+I'm currently a Software Engineer Intern on the Crash Safety team at Tesla, where I'm working on Hardware-in-the-Loop test infrastructure for the Restraint Control Module. Before this, I worked at Tesla Energy on SCADA and BESS controls, and at Rivian & Volkswagen Group Technologies on vehicle body controls. I've worked on everything from battery energy storage systems to vehicle access and exterior lighting firmware.
 
-I'm passionate about **software and hardware development**, with experience in:
+I enjoy working across both software and hardware. Some of the tools and technologies I've worked with include:
 
-- **Programming & Frameworks:** Python, C, C++, Java, Go, Rust, JavaScript, React
-- **Systems & Hardware:** CAN, LIN, TCP/IP, RTOS, ARM, STM32, Altium, AWS
-- **Tools & Technologies:** MATLAB (Simulink), Linux, Git, Docker, Bazel, Claude Code
+* Python, C, C++, Java, Go, Rust, and JavaScript
+* React, AWS, Linux, Git, Docker, and Bazel
+* CAN, LIN, TCP/IP, RTOS, ARM, and STM32
+* MATLAB/Simulink and Altium
 
-At UBC, I lead the software sub-team for **UBC Baja SAE**, and I'm an undergraduate research assistant at the **UBC Cloud Infrastructure Lab (CIRRUS)**, where I co-authored [**GreenPASS**](https://dl.acm.org/doi/10.1145/3744255.3811732), presented at **ACM e-Energy 2026** in Banff — a provider-assisted framework for cutting cloud carbon emissions at zero added cost.
+At UBC, I lead the software sub-team for UBC Baja SAE. I'm also an undergraduate research assistant at the UBC Cloud Infrastructure Lab (CIRRUS), where I co-authored GreenPASS, a paper on reducing carbon emissions from cloud computing without adding cost. I presented the work at ACM e-Energy 2026 in Banff.
 
-Beyond engineering, I enjoy staying active and challenging myself with:
+Outside of engineering, I spend a lot of time running, playing hockey, basketball, and ultimate frisbee, and getting outside for things like bouldering and hiking. I'm currently training for Hyrox and a marathon.
 
-- **Running** — currently training for **Hyrox** and a **marathon**
-- **Team sports:** hockey, basketball, ultimate frisbee
-- **Anything outdoors:** bouldering and hiking
+I'm also a big science fiction fan and am currently reading The Three-Body Problem series.
 
-I'm also an avid reader of **science fiction**, currently diving into *The Three-Body Problem* series.
+Feel free to reach out if you'd like to chat or work on something together.
 
-I'm always open to collaboration, learning, and connecting with fellow developers and engineers!
-
-📫 **Reach me at:** [geoffreybian100@gmail.com](mailto:geoffreybian100@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/geoffreybian](https://linkedin.com/in/geoffreybian)
-🌐 **Website:** [geoffreybian.github.io](https://geoffreybian.github.io)
+[geoffreybian100@gmail.com](mailto:geoffreybian100@gmail.com)
+linkedin.com/in/geoffreybian
+geoffreybian.github.io
