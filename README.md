@@ -18,7 +18,3 @@ Outside of engineering, I spend a lot of time running, playing hockey, basketbal
 I'm also a big science fiction fan and am currently reading The Three-Body Problem series.
 
 Feel free to reach out if you'd like to chat or work on something together.
-
-[geoffreybian100@gmail.com](mailto:geoffreybian100@gmail.com)
-linkedin.com/in/geoffreybian
-geoffreybian.github.io
